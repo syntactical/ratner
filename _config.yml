@@ -69,4 +69,4 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: heroku
-  repo: https://quiet-plateau-18362.herokuapp.com/
+  repo: https://git.heroku.com/quiet-plateau-18362.git
